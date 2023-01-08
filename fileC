@@ -1,0 +1,10 @@
+This is file C
+
+a=9
+b=25
+
+c=30
+
+d=a+b+c
+
+
